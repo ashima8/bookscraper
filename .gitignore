@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+
+# Scrapy
+*.log
+
+
+# Scrapy output
+output/
+*.csv
+*.json
+
+
+# Environment variables
+.env
+
+
+# macOS
+.DS_Store
+
+
+# IDE
+.vscode/
+.idea/
